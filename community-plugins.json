@@ -29979,5 +29979,12 @@
     "author": "altocomputer",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Decorate exported Apple Notes and Bear Notes with native app icons. Open notes in their source app from Obsidian.",
     "repo": "podviaznikov/exporter-obsidian"
+  },
+  {
+    "id": "root-folder-order",
+    "name": "Root Folder Order",
+    "author": "Chiloh",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Keep root-level folders in a custom order in the file explorer.",
+    "repo": "chilohwei/obsidian-root-folder-order"
   }
 ]
